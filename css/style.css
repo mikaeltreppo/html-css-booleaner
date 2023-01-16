@@ -1,15 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 header {
     height: 100px;
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
-    background-size:420px;
+    background-size: 420px;
 }
 
-#booleaner img{
+#booleaner img {
     height: 50px;
     margin-top: 50px;
-    margin-bottom: 30px;
+
 }
 
 #titolo {
@@ -44,6 +47,10 @@ header {
     color: white;
 }
 
+table {
+    border-spacing: 0;
+}
+
 .uno-tre {
     background-color: #b1e5f2;
 }
@@ -59,16 +66,14 @@ header {
 
 #footer {
     color: rgb(145, 142, 142);
-    font-size: 1.2em;
-    margin-bottom: 10px;
-    font-weight: 700;
-    
+    font-size: 1.5em;
+    font-weight: 800;
+
 }
 
-#quadrato-screen{
+#quadrato-screen {
     font-weight: 700;
-    padding-top: 10px;
-    padding-left: 5px;
+    padding: 15px 0 0 15px;
     color: white;
     font-size: 24px;
     width: auto;
@@ -78,10 +83,9 @@ header {
     background-image: url("../img/monitor.jpg")
 }
 
-#quadrato-grafico{
+#quadrato-grafico {
     font-weight: 700;
-    padding-top: 10px;
-    padding-left: 5px;
+    padding: 15px 0 0 15px;
     color: white;
     font-size: 24px;
     width: auto;
@@ -90,5 +94,3 @@ header {
     background-size: contain;
     background-image: url("../img/graph.jpg")
 }
-
-
