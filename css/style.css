@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100px
+}
+
+#titolo{
+    font-size: bold;
+}
+#grigino, #data{
+    color: lightgray;
+}
+#descrizionefoto{
+    font-size: 0.6em;
+}
+#linkboolean{
+    color:#4ea0ff
+}
+#data{
+  font-size: 0.8em;
+}
+
+#sezionelorem{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#rigahead{
+    background-color: #20a9e5;
+    color: white;
+}
