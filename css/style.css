@@ -1,8 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 header {
     height: 100px;
@@ -24,7 +19,7 @@ header {
 
 #grigino,
 #data {
-    color: lightgray;
+    color: rgb(151, 147, 147);
 }
 
 #descrizionefoto {
@@ -65,10 +60,15 @@ header {
 #footer {
     color: rgb(145, 142, 142);
     font-size: 1.2em;
+    margin-bottom: 10px;
+    font-weight: 700;
     
 }
 
 #quadrato-screen{
+    font-weight: 700;
+    padding-top: 10px;
+    padding-left: 5px;
     color: white;
     font-size: 24px;
     width: auto;
@@ -79,6 +79,9 @@ header {
 }
 
 #quadrato-grafico{
+    font-weight: 700;
+    padding-top: 10px;
+    padding-left: 5px;
     color: white;
     font-size: 24px;
     width: auto;
