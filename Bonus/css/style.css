@@ -4,6 +4,22 @@ main, footer{
     margin: auto;
 }
 
+a{
+    text-decoration: none;
+}
+
+h1 a{
+    color: black;
+}
+
+footer a{
+    color: white;
+}
+
+th a{
+    color: white;
+}
+
 header {
     height: 100px;
     background-color: #4ea0ff;
