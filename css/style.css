@@ -9,7 +9,8 @@ header{
 }
 
 #titolo{
-    font-size: bold;
+    font-size: 40px;
+    font-weight: 900;
 }
 #grigino, #data{
     color: lightgray;
@@ -32,3 +33,13 @@ header{
     background-color: #20a9e5;
     color: white;
 }
+.uno-tre{
+    background-color:#b1e5f2 ;
+}
+.venti{
+    width: 25%;
+}
+ #ultimolorem{
+    margin-top: 20px;
+    margin-bottom: 30px;
+ }
